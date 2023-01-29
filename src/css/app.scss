@@ -1,0 +1,20 @@
+// app global css in SCSS form
+
+textarea {
+    resize: none !important;
+}
+
+
+
+
+.list-button {
+    width: 100px;
+}
+
+.scroll-area-height {
+    height: calc(100vh - 200px);
+}
+
+.text-align-center {
+    text-align: center;
+}
